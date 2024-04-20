@@ -65,7 +65,7 @@ class Telegram
      */
     const CHANNEL_POST = 'channel_post';
 
-    private $bot_token = '';
+    private $bot_token = '7054635518:AAGAPQ3KIQSLHcGqfFXScVJdC4mf9vd1ZVY';
     private $data = [];
     private $updates = [];
     private $log_errors;
